@@ -1,0 +1,35 @@
+{
+  "name": "trackify",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "humps": "^2.0.1",
+    "lodash.throttle": "^4.1.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-icons": "^2.2.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "rebass": "^2.0.0-5",
+    "styled-components": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-react": "^7.9.1",
+    "install": "^0.11.0",
+    "npm": "^6.1.0",
+    "react-app-rewired": "^1.5.2"
+  }
+}
